@@ -1,0 +1,13 @@
+{
+    "name": "Pentagonscavs",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "montetank"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2014-12-28 21:19:34",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

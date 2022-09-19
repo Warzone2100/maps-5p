@@ -1,0 +1,1 @@
+A large five-player FFA map with a lot of huts in the middle.
