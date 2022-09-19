@@ -1,0 +1,1 @@
+Symmetrical 5-player map in Pentagonstyle. The map is very large (240x240) but the distance between the bases is only 80. 6 oils and 2 trucks/player + 60 oil/terrain + 7 oil/scavs = 19,4 oil/player.

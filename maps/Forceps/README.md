@@ -1,0 +1,1 @@
+Map of the five players. Trucks on the center of the map is integrated oil at the beginning of the game, also keep an attention.

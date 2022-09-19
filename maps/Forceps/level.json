@@ -1,0 +1,13 @@
+{
+    "name": "Forceps",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "arizona",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-09-01 08:24:18",
+    "generator": "wzmaplib 1.0.3",
+    "prior-generator": "FlaME 1.29 Windows"
+}

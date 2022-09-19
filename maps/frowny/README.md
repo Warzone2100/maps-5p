@@ -1,0 +1,1 @@
+scavs are mean here, keep your base small or you will be under mortar fire from the scavs.
