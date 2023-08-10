@@ -1,0 +1,13 @@
+{
+    "name": "Bolder",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "arizona",
+    "author": {
+        "name": "sensor"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2014-03-31 14:49:33",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

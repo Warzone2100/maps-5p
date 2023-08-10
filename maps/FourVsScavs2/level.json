@@ -1,0 +1,13 @@
+{
+    "name": "FourVsScavs2",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "HiddenNoob"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2016-02-11 17:48:01",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}

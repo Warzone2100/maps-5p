@@ -1,0 +1,13 @@
+{
+    "name": "ScavWar5-WZMini",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "KSA"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2013-06-29 09:28:52",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.28 Windows"
+}

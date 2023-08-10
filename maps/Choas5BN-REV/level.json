@@ -1,0 +1,13 @@
+{
+    "name": "Choas5BN-REV",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "JamesTQuirk"
+    },
+    "spdx-license-id": "CC-BY-3.0 OR GPL-2.0-or-later",
+    "created-date": "2013-10-06 17:20:26",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}

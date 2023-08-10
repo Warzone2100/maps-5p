@@ -1,0 +1,13 @@
+{
+    "name": "Starfish",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "NoQ"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2010-12-13 13:45:21",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "flaME v1.10"
+}
