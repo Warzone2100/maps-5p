@@ -1,0 +1,13 @@
+{
+    "name": "Ng-SPcobra",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "bob marley"
+    },
+    "spdx-license-id": "GPL-2.0-or-later",
+    "created-date": "2022-11-12 15:34:51",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Mono 2.10"
+}
