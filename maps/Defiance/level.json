@@ -1,0 +1,13 @@
+{
+    "name": "Defiance",
+    "type": "skirmish",
+    "players": 5,
+    "tileset": "rockies",
+    "author": {
+        "name": "PathForger"
+    },
+    "spdx-license-id": "CC0-1.0",
+    "created-date": "2023-11-03 19:30:42",
+    "generator": "wzmaplib 1.2.2",
+    "prior-generator": "FlaME 1.29 Windows"
+}
